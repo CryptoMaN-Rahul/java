@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "search",
+      "request": "launch",
+      "mainClass": "search",
+      "projectName": "oopj_a19732c"
+    },
+    {
+      "type": "java",
+      "name": "Permutations",
+      "request": "launch",
+      "mainClass": "Permutations",
+      "projectName": "oopj_a19732c"
+    },
+    {
+      "type": "java",
+      "name": "combination",
+      "request": "launch",
+      "mainClass": "combination",
+      "projectName": "oopj_a19732c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/f-cillionairerahul/Desktop/oopj",
+      "program": "/Users/f-cillionairerahul/Desktop/oopj/build/Debug/outDebug"
+    }
+  ]
+}
